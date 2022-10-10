@@ -1,6 +1,3 @@
-
-const arr = [1, 2, [3, 4, [5, 6]]];
-
 function flatDeep(arr, d = 1){
     if(!Array.isArray(arr)){
         return arr;
@@ -11,4 +8,4 @@ function flatDeep(arr, d = 1){
         : arr.slice();
 }
 
-console.log(flatDeep(arr, Infinity)); 
+module.exports = flatDeep;

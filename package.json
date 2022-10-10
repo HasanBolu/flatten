@@ -1,0 +1,22 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanBolu/flatten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasanBolu/flatten/issues"
+  },
+  "homepage": "https://github.com/HasanBolu/flatten#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
