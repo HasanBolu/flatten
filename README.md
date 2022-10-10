@@ -16,13 +16,13 @@ function flatDeep(arr, d = 1){
 
 # Installation
 
-Following npm command will install project dependencies.
+Following npm command installs project dependencies.
 
 ```
 npm install
 ```
 
-Following npm command will run unit tests in the project
+Following npm command runs unit tests in the project
 ```
 npm test
 ```
