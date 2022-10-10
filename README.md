@@ -1,4 +1,4 @@
-# Arrat flattener
+# Array flattener
 
 Implementation of array flattener with javascript.
 
